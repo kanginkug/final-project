@@ -120,7 +120,7 @@
 #### 1. 상단 배너
 슬라이더를 이용해 다양한 부산의 전경을 보고 여행의 설렘을 느낄 수 있습니다.
 검색으로 넘어가는 버튼으로 검색기능을 이용할 수 있습니다.
-착한가게, 맛집, 숙박, 축제, 명소 버튼을 통해 각 카테고리로 넘어갈 수 있습니다.
+착한가게, 맛집, 숙박, 축제, 명소 버튼을 통해 필터링해 각 카테고리로 넘어갈 수 있습니다.
 로그인 하지 않은 상태에선 내정보가 나타나지 않습니다.
 #### 2. 검색
 SELECT태그를 이용해 카테고리와 지역을 선택할 수 있게 하여 메인화면에서 원하는 카테고리 검색이 가능합니다.
@@ -135,10 +135,10 @@ SELECT태그를 이용해 카테고리와 지역을 선택할 수 있게 하여 
 
 <br>
 
-### ✔category
-![category](https://user-images.githubusercontent.com/55133871/104785039-f036cc00-57cc-11eb-96ee-6438dcd11a55.gif)
+### ✔Restaurant Main
+[resMain.webm](https://github.com/kanginkug/final-project/assets/83181058/9674c160-10a3-41e4-a08a-5aff3ddf5ee4)
 #### 1. 왼쪽 카테고리 선택 영역
-카테고리를 선택할 경우 해당 카테고리의 영상들이 필터링되어 제공됩니다.
+카테고리를 선택할 경우 해당 카테고리의 맛집들을 필터링해 검색할 수 있습니다.
 상단 GNB와 함께 위치를 고정시켜 사용자는 언제든 다른 카테고리를 선택하거나 다른 곳으로 쉽게 이동할 수 있습니다.
 카테고리를 호버 했을 경우와 클릭 했을 경우 변화를 주어 사용자는 카테고리를 클릭하는 행위를 자연스럽게 느낄 수 있습니다.
 #### 2. 오른쪽 정렬 모달창
@@ -149,7 +149,7 @@ SELECT태그를 이용해 카테고리와 지역을 선택할 수 있게 하여 
 
 <br>
 
-### ✔detail
+### ✔Restaurant Sub
 ![detail](https://user-images.githubusercontent.com/55133871/104785177-4441b080-57cd-11eb-8b09-f67a2fc92add.gif)
 #### 1. 클릭한 영상 정보
 사용자가 클릭한 영상을 시청하고 영상과 관련된 정보를 확인할 수 있습니다.
@@ -160,7 +160,7 @@ SELECT태그를 이용해 카테고리와 지역을 선택할 수 있게 하여 
 
 <br>
 
-### ✔mymotiiv
+### ✔Restaurant Reservation
 ![mymotiiv](https://user-images.githubusercontent.com/55133871/104783056-9b915200-57c8-11eb-9135-442d01edca32.gif)
 #### 1. 워크스페이스
 사용자가 동기부여 영상을 보고 바로 업무에 착수할 수 있도록 **본인이 자주 방문하는 워크스페이스를 추가, 수정, 삭제**할 수 있는 공간입니다.
@@ -169,8 +169,8 @@ SELECT태그를 이용해 카테고리와 지역을 선택할 수 있게 하여 
 토글 버튼을 활성화할 경우 **모티브의 모든 뷰에서 바로 워크스페이스로 접근할 수 있도록 하는 플로팅 버튼**이 나타나게 됩니다.
 플로팅 버튼에 대해서는 아래 항목에서 자세하게 설명합니다.
 
-### ✔mymotiiv floating button
-![mymotiiv_btn](https://user-images.githubusercontent.com/55133871/104783057-9d5b1580-57c8-11eb-8889-9070b416c5ff.gif)
+### ✔Room Reservation
+[roomReservation.webm](https://github.com/kanginkug/final-project/assets/83181058/da83b7b5-f58f-441b-8a13-55b4fa21f7be)
 #### 1. 워크스페이스 플로팅 버튼
 토글버튼을 활성화할 경우 모든 뷰에서 볼 수 있는 플로팅 버튼입니다.
 가로형 버튼을 호버할 경우 원 모양으로 버튼이 변하며, 해당 상태의 버튼을 클릭할 경우 워크스페이스가 나타납니다.
@@ -178,15 +178,15 @@ SELECT태그를 이용해 카테고리와 지역을 선택할 수 있게 하여 
 
 <br>
 
-### ✔dark mode
-![darkmode](https://user-images.githubusercontent.com/55133871/104783081-a946d780-57c8-11eb-8790-5f5fdeff6839.gif)
+### ✔My Page
+[myPage.webm](https://github.com/kanginkug/final-project/assets/83181058/e6eea6ce-b111-4995-a9b3-c921ed8f148c)
 #### 1. 전체 뷰 다크 모드
 로그인한 유저들은 모티브의 다크모드를 사용할 수 있습니다. GNB의 프로필 모달창에서 토글 버튼으로 다크모드 활성화가 가능합니다.
 단순 1:1 색상 대응이 아닌, 각 뷰에 최적화된 색 조합에 맞춰 작업해 사용자들은 다크모드에서도 정보를 효율적으로 확인할 수  있습니다.
 
 <br>
 
-### ✔setting
+### ✔
 ![setting](https://user-images.githubusercontent.com/55133871/104783059-9f24d900-57c8-11eb-9c19-72c6917a345c.gif)
 #### 1. 회원정보수정
 사용자의 프로필 이미지, 이름, 직군, 관심사를 수정할 수 있습니다.
@@ -194,7 +194,6 @@ SELECT태그를 이용해 카테고리와 지역을 선택할 수 있게 하여 
 <br>
 
 ### ✔social login
-![login](https://user-images.githubusercontent.com/55133871/104785985-2bd29580-57cf-11eb-9b60-efae171189ef.gif)
 #### 1. 카카오 소셜 로그인
 카카오 계정으로 소셜 로그인이 가능합니다.
 만약 회원가입 이력이 없을 경우 카카오 로그인 이후 바로 회원가입을 위한 추가 정보 선택 화면으로 이동합니다.

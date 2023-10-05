@@ -199,7 +199,7 @@ SELECT태그를 이용해 카테고리와 지역을 선택할 수 있게 하여 
 <br>
 
 [ BoogiRang의 더 자세한 설명
-[부기랑.pdf](https://github.com/kanginkug/final-project/files/12813384/4.pdf)
+[BoogiRang](https://github.com/kanginkug/final-project/files/12813430/4.pdf)
 
 <br>
 <br>

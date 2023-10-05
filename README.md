@@ -2,9 +2,7 @@
 <h1>🚆 BoogiRang 🚆</h1>
 </div>
 
-![그림1](https://github.com/kanginkug/final-project/assets/83181058/1f1a4f7a-3653-44d4-a880-7abc957b58dd)
-
-
+![그림2](https://github.com/kanginkug/final-project/assets/83181058/76252dd6-e9c7-46f4-bfb1-a6b6c6a789dd)
 
 
 #### 부산 여행의 시작과 끝은 부기랑

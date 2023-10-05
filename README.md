@@ -18,22 +18,6 @@
 
 ## 💡 프로젝트 구조
 
-# 💡Motiiv WEB💡
-
-![motiiv](https://user-images.githubusercontent.com/55133871/104766238-95da4300-57ad-11eb-86a9-260e895e4816.gif)
-
-#### 일을 시작하는 순간, Motiiv
-
-> 일을 시작하기 직전, 부스트️⚡️를 얻고 싶다면? <br>
-> 나의 시선을 뺏는 많은 콘텐츠 속에서 내가 원하는 영상만 켜고 <br>
-> 영상을 본 뒤 나의 워크스페이스로 바로 이동하세요! <br><br>
-> 개발 기간 : ~2021-01-16
-
-<br>
-<br>
-
-## 💡 프로젝트 구조
-
 ```
 ├─src
 │  ├─main
@@ -100,69 +84,7 @@
 │  │  │  │  ├─restaurant
 │  │  │  │  └─room
 │  │  │  └─META-INF
-│  │  └─webapp
-│  │      ├─resources
-│  │      │  ├─css
-│  │      │  ├─icons
-│  │      │  ├─img
-│  │      │  │  ├─avatar
-│  │      │  │  ├─Busan
-│  │      │  │  ├─illustration
-│  │      │  │  └─photo
-│  │      │  ├─js
-│  │      │  └─vendor
-│  │      │      ├─bootstrap
-│  │      │      │  ├─css
-│  │      │      │  └─js
-│  │      │      ├─bootstrap-select
-│  │      │      │  ├─css
-│  │      │      │  └─js
-│  │      │      │      └─i18n
-│  │      │      ├─chart.js
-│  │      │      ├─dropzone
-│  │      │      │  └─min
-│  │      │      ├─jquery
-│  │      │      ├─jquery.cookie
-│  │      │      │  └─test
-│  │      │      ├─leaflet
-│  │      │      │  └─images
-│  │      │      ├─magnific-popup
-│  │      │      ├─nouislider
-│  │      │      ├─object-fit-images
-│  │      │      ├─prismjs
-│  │      │      │  ├─components
-│  │      │      │  ├─plugins
-│  │      │      │  │  ├─autolinker
-│  │      │      │  │  ├─autoloader
-│  │      │      │  │  ├─command-line
-│  │      │      │  │  ├─copy-to-clipboard
-│  │      │      │  │  ├─custom-class
-│  │      │      │  │  ├─data-uri-highlight
-│  │      │      │  │  ├─diff-highlight
-│  │      │      │  │  ├─download-button
-│  │      │      │  │  ├─file-highlight
-│  │      │      │  │  ├─filter-highlight-all
-│  │      │      │  │  ├─highlight-keywords
-│  │      │      │  │  ├─inline-color
-│  │      │      │  │  ├─jsonp-highlight
-│  │      │      │  │  ├─keep-markup
-│  │      │      │  │  ├─line-highlight
-│  │      │      │  │  ├─line-numbers
-│  │      │      │  │  ├─match-braces
-│  │      │      │  │  ├─normalize-whitespace
-│  │      │      │  │  ├─previewers
-│  │      │      │  │  ├─remove-initial-line-feed
-│  │      │      │  │  ├─show-invisibles
-│  │      │      │  │  ├─show-language
-│  │      │      │  │  ├─toolbar
-│  │      │      │  │  ├─treeview
-│  │      │      │  │  ├─unescaped-markup
-│  │      │      │  │  └─wpd
-│  │      │      │  └─themes
-│  │      │      ├─smooth-scroll
-│  │      │      └─swiper
-│  │      │          ├─css
-│  │      │          └─js
+│  │      │
 │  │      └─WEB-INF
 │  │          ├─classes
 │  │          ├─lib
@@ -184,7 +106,13 @@
 
 ## 💡 기술 스택 및 사용 라이브러리
 
-<p align="center"><img width="832" alt="KakaoTalk_20210102_162246197" src="https://user-images.githubusercontent.com/55133871/103452843-0e092900-4d17-11eb-965c-73e2de8cfc3b.png"></>
+![image](https://github.com/kanginkug/final-project/assets/83181058/90730884-39de-49b2-9551-cc22084f5d49)
+![image](https://github.com/kanginkug/final-project/assets/83181058/aff7dda9-6640-4a30-8bbc-538b3b0900ce)
+![image](https://github.com/kanginkug/final-project/assets/83181058/08934f26-f6c3-486b-81f0-8a79b7e72e76)
+![image](https://github.com/kanginkug/final-project/assets/83181058/91fd5ee0-0e15-453f-ad96-d1392eabb6d8)
+![image](https://github.com/kanginkug/final-project/assets/83181058/91335684-2ede-4f51-9e9d-6a14eaf465a3)
+![image](https://github.com/kanginkug/final-project/assets/83181058/324a912d-2712-4873-8c57-ad2febd6b423)
+
 
 <br>
 <br>

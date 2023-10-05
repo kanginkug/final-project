@@ -1,5 +1,5 @@
 <div align="center">
-#🚆 BoogiRang 🚆
+<h1>🚆 BoogiRang 🚆</h1>
 </div>
 
 ![image](https://github.com/kanginkug/final-project/assets/83181058/42aab223-13df-4c41-a38e-3f0b50d6f31a)

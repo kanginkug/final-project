@@ -2,7 +2,8 @@
 <h1>🚆 BoogiRang 🚆</h1>
 </div>
 
-![image](https://github.com/kanginkug/final-project/assets/83181058/42aab223-13df-4c41-a38e-3f0b50d6f31a)
+![메인](https://github.com/kanginkug/final-project/assets/83181058/36d90ed0-29ca-42b0-9fc6-7a309e351384)
+
 
 
 

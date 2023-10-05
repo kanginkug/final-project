@@ -2,7 +2,7 @@
 <h1>🚆 BoogiRang 🚆</h1>
 </div>
 
-![메인](https://github.com/kanginkug/final-project/assets/83181058/36d90ed0-29ca-42b0-9fc6-7a309e351384)
+![그림1](https://github.com/kanginkug/final-project/assets/83181058/1f1a4f7a-3653-44d4-a880-7abc957b58dd)
 
 
 
@@ -107,12 +107,7 @@
 
 ## 💡 기술 스택 및 사용 라이브러리
 
-![image](https://github.com/kanginkug/final-project/assets/83181058/90730884-39de-49b2-9551-cc22084f5d49)
-![image](https://github.com/kanginkug/final-project/assets/83181058/aff7dda9-6640-4a30-8bbc-538b3b0900ce)
-![image](https://github.com/kanginkug/final-project/assets/83181058/08934f26-f6c3-486b-81f0-8a79b7e72e76)
-![image](https://github.com/kanginkug/final-project/assets/83181058/91fd5ee0-0e15-453f-ad96-d1392eabb6d8)
-![image](https://github.com/kanginkug/final-project/assets/83181058/91335684-2ede-4f51-9e9d-6a14eaf465a3)
-![image](https://github.com/kanginkug/final-project/assets/83181058/324a912d-2712-4873-8c57-ad2febd6b423)
+
 
 
 <br>

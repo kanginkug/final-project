@@ -114,7 +114,8 @@
 ## 💡 서비스 핵심 기능
 
 ### ✔main
-[screen-recording (1).webm](https://github.com/kanginkug/final-project/assets/83181058/0c74d981-0ebf-483e-bb3e-3ef0174d8805)
+[boogiRangMain.webm](https://github.com/kanginkug/final-project/assets/83181058/d1047b3e-51da-4d22-90d8-431f16a91a99)
+
 
 #### 1. 상단 배너
 어제 하루 조회수가 가장 높았던 영상 등 3가지 영상을 소개합니다. 사용자는 매일 새로운 영상을 배너에서 확인할 수 있습니다.

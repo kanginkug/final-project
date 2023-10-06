@@ -103,6 +103,14 @@
 <br>
 <br>
 
+
+## 💡 DB ERD
+![image](https://github.com/kanginkug/final-project/assets/83181058/90d2f471-425e-480c-9710-66e51d8f4351)
+
+<br>
+<br>
+
+
 ## 💡 기술 스택 및 사용 API
 ![제목 없음](https://github.com/kanginkug/final-project/assets/83181058/b1233726-42b3-4550-a97b-5c088a1f7635)
 
